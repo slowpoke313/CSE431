@@ -9,7 +9,7 @@ https://docs.google.com/presentation/d/1achn8iU-SIktt03fqT7UiXACedBNPWOrX3OchPWf
 
 Project title:
 
-Newspaper Article Summarization using natural language processing (NLP) --- [NEW TOPIC]
+Newspaper Article Summarization using Natural Language Processing (NLP) --- [NEW TOPIC]
 
 Academic research paper summarization using natural language processing (NLP) --- [Before group splitting]
 
