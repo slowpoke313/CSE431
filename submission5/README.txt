@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/64b6ef0d9f4c018fba18735d
+https://www.overleaf.com/5175889547dpsmmxmkqppb
 
 Unlisted YouTube video:
 https://youtu.be/u7_jCW4VH3E
@@ -8,7 +8,7 @@ Paper title:
 Enhancing Newspaper Article Summarization through BERT-based Natural Language Processing Techniques
 
 Paper presentation (anyone can view without login):
-https://drive.google.com/file/d/1pQkfI48-pbOyJALaUY-DSVn3EFQqNquZ/view?usp=sharing
+https://docs.google.com/presentation/d/18dkBKVeNV2KFsjzWGdl3kpfBTCf9GsTC8aQlNLy3mXE/edit?usp=sharing
 
 Group Number:
 14
