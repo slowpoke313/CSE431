@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/hnnvbrvcjssy
 
 Unlisted YouTube video:
-https://youtu.be/u7_jCW4VH3E
+https://youtu.be/l-hVhf9Co6w?si=ZRoqGZ1YTqjNJTrV
 
 Paper title:
 Enhancing Newspaper Article Summarization through BERT-based Natural Language Processing Techniques
