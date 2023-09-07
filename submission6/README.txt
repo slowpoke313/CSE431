@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/QlruiW1l6tc?si=m4lQG3DCUPERZl6p
 
 Conference submitted paper / paper submission / login Link:
-pending
+https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Index#
 
 Paper title:
 Enhancing Newspaper Article Summarization through BERT-based Natural Language Processing Techniques
@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/18dkBKVeNV2KFsjzWGdl3kpfBTCf9GsTC8aQlNLy3mXE/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-pending
+7/09/2023
 
 Paper submission ID: (received) from conference/workshop
-pending
+329
 
-Conference Name:
-pending
-
+Conference Name: 
+International Conference on Computer and Information Technology (ICCIT)
+ 
 Conference URL:
-pending
+https://iccit.org.bd/2023/
 
 Group Number:
 14
